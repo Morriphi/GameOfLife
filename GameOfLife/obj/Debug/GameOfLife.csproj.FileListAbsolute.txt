@@ -1,0 +1,7 @@
+c:\users\morriphi\documents\visual studio 2010\Projects\GameOfLife\GameOfLife\bin\Debug\GameOfLife.dll
+c:\users\morriphi\documents\visual studio 2010\Projects\GameOfLife\GameOfLife\bin\Debug\GameOfLife.pdb
+c:\users\morriphi\documents\visual studio 2010\Projects\GameOfLife\GameOfLife\obj\Debug\ResolveAssemblyReference.cache
+c:\users\morriphi\documents\visual studio 2010\Projects\GameOfLife\GameOfLife\obj\Debug\GameOfLife.dll
+c:\users\morriphi\documents\visual studio 2010\Projects\GameOfLife\GameOfLife\obj\Debug\GameOfLife.pdb
+c:\users\morriphi\documents\visual studio 2010\Projects\GameOfLife\GameOfLife\bin\Debug\nunit.framework.dll
+c:\users\morriphi\documents\visual studio 2010\Projects\GameOfLife\GameOfLife\bin\Debug\nunit.framework.xml

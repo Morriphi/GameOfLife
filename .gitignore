@@ -1,0 +1,5 @@
+*.suo
+*.DotSettings.*
+bin/*
+obj/*
+_ReSharper.*/*
